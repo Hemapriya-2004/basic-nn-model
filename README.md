@@ -13,8 +13,7 @@ In this basic NN Model, we have used "relu" activation function in input and hid
 
 
 ## Neural Network Model
-![image](https://github.com/Hemapriya-2004/basic-nn-model/blob/main/k1.png)
-
+![output](https://github.com/Hemapriya-2004/basic-nn-model/blob/main/k1.png)
 
 
 ## DESIGN STEPS
@@ -110,21 +109,21 @@ model.predict(X_n1_1)
 ```
 ## Dataset Information
 
-![image](https://github.com/Hemapriya-2004/basic-nn-model/blob/main/k2.png)
+![output](https://github.com/Hemapriya-2004/basic-nn-model/blob/main/k2.png)
 
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
 
-![image](https://github.com/Hemapriya-2004/basic-nn-model/blob/main/k3.png)
+![output](https://github.com/Hemapriya-2004/basic-nn-model/blob/main/k3.png)
 
 ### Test Data Root Mean Squared Error
-![image](https://github.com/Hemapriya-2004/basic-nn-model/blob/main/k4.png)
+![output](https://github.com/Hemapriya-2004/basic-nn-model/blob/main/k4.png)
 
 ### New Sample Data Prediction
 
-![image](https://github.com/Hemapriya-2004/basic-nn-model/blob/main/k5.png)
+![output](https://github.com/Hemapriya-2004/basic-nn-model/blob/main/k5.png)
 
 ## RESULT
 Thus a neural network regression model for the given dataset is written and executed successfully.
