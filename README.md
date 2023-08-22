@@ -13,7 +13,7 @@ In this basic NN Model, we have used "relu" activation function in input and hid
 
 
 ## Neural Network Model
-![image](https://github.com/Nagadurg/basic-nn-model/assets/94185707/8320fd72-384f-4400-b792-6fc4543a653b)
+![image](https://github.com/Hemapriya-2004/basic-nn-model/blob/main/k1.png)
 
 
 
@@ -110,24 +110,21 @@ model.predict(X_n1_1)
 ```
 ## Dataset Information
 
-![image](https://github.com/Nagadurg/basic-nn-model/assets/94185707/989cd3fb-98b7-40a4-9194-178d1c9cf83b)
+![image](https://github.com/Hemapriya-2004/basic-nn-model/blob/main/k2.png)
 
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
 
-![image](https://github.com/Nagadurg/basic-nn-model/assets/94185707/76268b7a-8fae-4ff6-bef6-eba02a8e1887)
-
+![image](https://github.com/Hemapriya-2004/basic-nn-model/blob/main/k3.png)
 
 ### Test Data Root Mean Squared Error
-![image](https://github.com/Nagadurg/basic-nn-model/assets/94185707/74bb9f89-13a8-4c31-94fe-0873558afa8a)
-
+![image](https://github.com/Hemapriya-2004/basic-nn-model/blob/main/k4.png)
 
 ### New Sample Data Prediction
 
-![image](https://github.com/Nagadurg/basic-nn-model/assets/94185707/09027049-c0d9-4595-92a1-c15ea28e272f)
-
+![image](https://github.com/Hemapriya-2004/basic-nn-model/blob/main/k5.png)
 
 ## RESULT
-A Basic neural network regression model for the given dataset is developed successfully.
+Thus a neural network regression model for the given dataset is written and executed successfully.
